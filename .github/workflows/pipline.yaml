@@ -1,5 +1,5 @@
 yaml
-name: Dockerfile Checkout Build Deploy
+name: case1
 on:
   push:
     branches:
